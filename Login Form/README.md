@@ -25,4 +25,3 @@ The design is simple, clean, and responsive.
 
 ---
 
-## 📂 Project Structure
