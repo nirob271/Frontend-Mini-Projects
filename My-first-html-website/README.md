@@ -46,16 +46,16 @@ Table-based layout for content organization
 
 
 ## 📁 Project Structure
-text
-/
-├── index.html          # Homepage
-├── lecture1.html       # Introduction to Web Development
-├── lecture2.html       # HTML Fundamentals
-├── lecture3.html       # Advanced HTML
-├── lecture4.html       # Lists & Tables
-├── lecture5.html       # File Paths & Structure
-├── lecture6.html       # Deployment & Media
-└── README.md
+
+.
+├── index.html # Homepage
+├── lecture1.html # Introduction to Web Development
+├── lecture2.html # HTML Fundamentals
+├── lecture3.html # Advanced HTML
+├── lecture4.html # Nested Lists & Tables
+├── lecture5.html # File Paths, Boilerplate, DIV, Class, ID
+├── lecture6.html # Deployment & Media Tags
+└── README.md # Project documentation
 
 
 ## 🎯 Learning Outcomes
