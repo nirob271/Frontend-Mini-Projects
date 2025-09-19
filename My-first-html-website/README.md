@@ -1,12 +1,12 @@
-My First HTML Website
+## My First HTML Website
 
-Defence Web Development Course Website
+## Defence Web Development Course Website
 A multi-page HTML website created as part of the Defence Web Development Course, focusing on building a strong foundation in HTML fundamentals.
 
-📋 About
+## 📋 About
 This project is a complete website built using only HTML to demonstrate core web development concepts. It serves as an educational resource for the Defence Web Development Course led by Rohit Negi (IIT alumnus & Founder of Coder Army).
 
-🚀 Features
+## 🚀 Features
 Multi-page structure with navigation between sections
 
 Clean semantic HTML implementation
@@ -19,7 +19,7 @@ Responsive design using HTML elements
 
 Practice questions section for self-assessment
 
-📚 Course Content
+## 📚 Course Content
 The website covers essential web development topics:
 
 Lecture 1: Introduction to Web Development, Internet Basics, IP Addressing, DNS
@@ -34,17 +34,18 @@ Lecture 5: File Paths, Boilerplate Code, DIV, Class, ID
 
 Lecture 6: Deployment, Media Tags, Multi-page Websites
 
-🌐 Deployment
-This website is deployed on Netlify: Live Demo
+## 🌐 Deployment
+This website is deployed on Netlify: https://my-first-html-website-nnn.netlify.app/
 
-🛠️ Built With
+## 🛠️ Built With
 Pure HTML5 (no CSS or JavaScript frameworks)
 
 Semantic HTML tags for accessibility
 
 Table-based layout for content organization
 
-📁 Project Structure
+
+## 📁 Project Structure
 text
 /
 ├── index.html          # Homepage
@@ -55,7 +56,9 @@ text
 ├── lecture5.html       # File Paths & Structure
 ├── lecture6.html       # Deployment & Media
 └── README.md
-🎯 Learning Outcomes
+
+
+## 🎯 Learning Outcomes
 Through building this project, I've strengthened my understanding of:
 
 HTML document structure and semantics
@@ -68,14 +71,14 @@ Organizing content effectively using HTML
 
 Deploying static websites to Netlify
 
-📝 Note
+## 📝 Note
 This website was created as part of an educational journey to master HTML fundamentals before moving on to CSS and JavaScript. The focus is on clean, semantic markup rather than visual styling.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Saiful Islam Nitob
 Defence Web Dev Course | Hackathon 2025
 
-📄 License
+## 📄 License
 This project is created for educational purposes as part of the Defence Web Development Course.
 
 
