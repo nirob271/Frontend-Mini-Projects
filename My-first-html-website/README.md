@@ -1,4 +1,4 @@
-## My First HTML Website
+# My First HTML Multipage Website
 
 ## Defence Web Development Course Website
 A multi-page HTML website created as part of the Defence Web Development Course, focusing on building a strong foundation in HTML fundamentals.
@@ -43,19 +43,6 @@ Pure HTML5 (no CSS or JavaScript frameworks)
 Semantic HTML tags for accessibility
 
 Table-based layout for content organization
-
-
-## 📁 Project Structure
-
-.
-├── index.html # Homepage
-├── lecture1.html # Introduction to Web Development
-├── lecture2.html # HTML Fundamentals
-├── lecture3.html # Advanced HTML
-├── lecture4.html # Nested Lists & Tables
-├── lecture5.html # File Paths, Boilerplate, DIV, Class, ID
-├── lecture6.html # Deployment & Media Tags
-└── README.md # Project documentation
 
 
 ## 🎯 Learning Outcomes
