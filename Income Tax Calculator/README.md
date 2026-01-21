@@ -12,21 +12,15 @@ Dark-themed UI with input field and tax calculation result.
 
 ## 🚀 Features
 
-Clean and simple user interface
-
-Dark mode design
-
-Real-time tax calculation
-
-Beginner-friendly JavaScript logic
-
-Easy to modify and extend
+- Clean and simple user interface
+- Dark mode design
+- Real-time tax calculation
+- Beginner-friendly JavaScript logic
+- Easy to modify and extend
 
 
 ## 🛠️ Technologies Used
 
-HTML5 – Structure of the application
-
-CSS3 – Styling and layout
-
-JavaScript (Vanilla JS) – Tax calculation logic and DOM manipulation
+- HTML5 – Structure of the application
+- CSS3 – Styling and layout
+- JavaScript (Vanilla JS) – Tax calculation logic and DOM manipulation
